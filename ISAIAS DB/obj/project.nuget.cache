@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWy2eZJt9I0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Music\\ISAIAS DB\\AmortizacionPrestamo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\spectre.console\\0.55.2\\spectre.console.0.55.2.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\spectre.console.ansi\\0.55.2\\spectre.console.ansi.0.55.2.nupkg.sha512"
+  ],
+  "logs": []
+}
